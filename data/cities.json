@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "c7a5",
+      "cityName": "Nag Hammadi",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-01-23T12:15:28.920Z",
+      "notes": "here is nova",
+      "position": {
+        "lat": "26.055607001407246",
+        "lng": "32.234691381454475"
+      }
+    },
+    {
+      "id": "a6e8",
+      "cityName": "Al Khankah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-01-23T12:23:30.523Z",
+      "notes": "here is michael\n",
+      "position": {
+        "lat": "30.197546884865776",
+        "lng": "31.351745724678043"
+      }
+    },
+    {
+      "id": "4414",
+      "cityName": "Al Fayyum",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-01-23T12:23:52.280Z",
+      "notes": "here is marko",
+      "position": {
+        "lat": "29.307020816552104",
+        "lng": "30.840339660644535"
+      }
+    },
+    {
+      "id": "1440",
+      "cityName": "Culla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-02-01T18:18:17.889Z",
+      "notes": "I WAS AMAZING",
+      "position": {
+        "lat": "40.318304224601455",
+        "lng": "-0.15380859375000003"
+      }
+    }
+  ]
+}
